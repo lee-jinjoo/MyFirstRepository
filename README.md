@@ -1,6 +1,6 @@
 # MyFirstRepository
 ## 중간제목
-  [lee-jinjoo](https://github.com/lee-jinjoo/MyFirstRepository/edit/master/README.md)
+  [lee-jinjoo](https://github.com/lee-jinjoo)
 ### 소제목
    1.첫번째
    2.두번째
