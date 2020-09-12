@@ -8,4 +8,4 @@
    
 hello my name is jinjoo
 
-<img width="" height="" src="./png/yone.png"></img>
+<img width="" height="" src="./png/yone.PNG"></img>
