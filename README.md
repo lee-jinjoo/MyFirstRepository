@@ -1,11 +1,8 @@
-# MyFirstRepository
-## 중간제목
+# 19173052 이진주
   [lee-jinjoo](https://github.com/lee-jinjoo)
-### 소제목
-   1.첫번째
-   2.두번째
-   3.__세번째__
-   
-hello my name is jinjoo
+## 1주차 과제
 
-<img width="" height="" src="./png/yone.PNG"></img>
+## 2주차 과제
+<img width="" height="" src="./png/2주차 과제.PNG"></img>
+
+## 3주차 과제
